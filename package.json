@@ -1,0 +1,23 @@
+{
+  "name": "javascript-concepts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pramuditha1/javascript-concepts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pramuditha1/javascript-concepts/issues"
+  },
+  "homepage": "https://github.com/pramuditha1/javascript-concepts#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
