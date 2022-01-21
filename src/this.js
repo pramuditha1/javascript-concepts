@@ -66,3 +66,10 @@ function Person(name) {
 }
 
 const p1 = new Person('Pramuditha')
+
+/*
+4. default binding
+If none of the above 3 rules are satisfied, 
+Javascript will default to the global scope and set 'this' keyword to the window object.
+
+*/
